@@ -17,9 +17,7 @@ This project demonstrates sentiment analysis (positive/negative) on text reviews
 ## 🚀 Getting Started
 
 1. **Dataset:** If you're interested in the dataset or want to run this notebook yourself, visit the Kaggle page and copy my notebook: [Click here!!](https://www.kaggle.com/code/b21dccn632nvquang/multinomial-naive-bayes-classifier)
-2. **Environment:** Make sure you have Python installed. You can install the required libraries using:
-   ```bash
-   pip install pandas numpy
+2. **Environment:** Make sure you have Python installed. You can install the required libraries 
  3. **Run:** Execute the Jupyter Notebook or Python script to train and evaluate the model.
 ## 💡 How It Works
 
